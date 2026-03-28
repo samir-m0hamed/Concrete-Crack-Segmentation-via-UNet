@@ -11,7 +11,9 @@
 
 ## 🔗 Navigation
 
-<a href="#-live-demo" style="text-decoration:none !important; color:inherit;">
+| 🌐 Live Demo | 📦 Model Info | 🚀 Quick Start | 📊 Results |
+|-------------|-------------|---------------|-----------|
+| [Go](#-live-demo) | [Go](#-model-architecture) | [Go](#-quick-start) | [Go](#-results) |
 
 
 ---

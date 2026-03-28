@@ -303,9 +303,10 @@ concrete-crack-segmentation/
 ├── Dataset/
 │   ├── images/                           # 800 concrete images (256x256)
 │   └── masks/                            # Corresponding crack masks
-├── unet_model_weights.pth                # Trained model weights (30MB)
+├── unet_model_weights.pth                # Trained model weights (118MB)
 ├── requirements.txt                      # Python dependencies
-└── README.md                             # This file
+├── .gitattributes
+└── README.md                             
 ```
 
 ---

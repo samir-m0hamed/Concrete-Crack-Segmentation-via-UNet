@@ -11,7 +11,7 @@
 
 ## 🔗 Navigation
 
-🌐 [Live Demo](#-live-demo)  
+<a href="#-live-demo"><span>🌐 Live Demo</span></a> 
 📦 [Model Info](#-model-architecture)  
 🚀 [Quick Start](#-quick-start)  
 📊 [Results](#-results)

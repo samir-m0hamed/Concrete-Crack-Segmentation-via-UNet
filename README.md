@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
 
 
-<a href="#-live-demo" style="text-decoration:none;">🌐 Live Demo</a>   •   <a href="#-model-architecture" style="text-decoration:none;">📦 Model Info</a> • <a href="#-quick-start" style="text-decoration:none;">🚀 Quick Start</a> • <a href="#-results" style="text-decoration:none;">📊 Results</a>
+<span style="text-decoration: none;">[🌐 Live Demo](#-live-demo) • [📦 Model Info](#-model-architecture) • [🚀 Quick Start](#-quick-start) • [📊 Results](#-results)</span>
 
 ---
 

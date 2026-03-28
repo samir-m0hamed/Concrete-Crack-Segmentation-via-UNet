@@ -55,7 +55,7 @@ A high-performance UNet-based deep learning model for detecting and segmenting c
 ## 🌐 Live Demo
 
 **Try the interactive Gradio web interface:**
-👉 [**Launch Demo on Hugging Face Spaces**](https://huggingface.co/spaces/samir-mohamed/concrete-crack-segmentation)
+👉 [**Launch Demo on Hugging Face Spaces**](https://samir-mohamed-concrete-crack-segmentation.hf.space/))
 
 - Upload any concrete image
 - Get instant segmentation results

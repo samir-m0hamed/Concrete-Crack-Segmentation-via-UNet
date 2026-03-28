@@ -1,7 +1,5 @@
 # Concrete Crack Segmentation with UNet
 
-<div align="center">
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
@@ -11,7 +9,6 @@
 
 [🌐 Live Demo](#-live-demo) • [📦 Model Info](#-model-architecture) • [🚀 Quick Start](#-quick-start) • [📊 Results](#-results)
 
-</div>
 
 ---
 

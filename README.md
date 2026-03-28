@@ -13,7 +13,7 @@
 
 | 🌐 Live Demo | 📦 Model Info | 🚀 Quick Start | 📊 Results |
 |-------------|-------------|---------------|-----------|
-| [Go](#-live-demo) | [Go](#-model-architecture) | [Go](#-quick-start) | [Go](#-results) |
+| [🌐](#-live-demo) | [🌐](#-model-architecture) | [🌐](#-quick-start) | [🌐](#-results) |
 
 
 ---

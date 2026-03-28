@@ -12,9 +12,7 @@
 ## 🔗 Navigation
 
 <a href="#-live-demo" style="text-decoration:none !important; color:inherit;">
-📦 [Model Info](#-model-architecture)  
-🚀 [Quick Start](#-quick-start)  
-📊 [Results](#-results)
+
 
 ---
 
